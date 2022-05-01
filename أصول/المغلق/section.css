@@ -711,7 +711,7 @@ display: inline-block;
   margin-right: auto;
 }
 .sum {
-  font-size: 15px;
+  font-size: 10px;
   display: inline-block;
   flex-direction: row;
   text-align: right;
